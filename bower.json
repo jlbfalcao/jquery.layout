@@ -13,7 +13,7 @@
     "license": "GPL and MIT",
     "homepage": "http://layout.jquery-dev.net/index.cfm",
     "dependencies": {
-        "jquery-ui": "~1.11.4",
+        "jquery-ui": "~1.10.3",
         "jquery": "*"
     },
     "ignore": [
